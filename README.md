@@ -16,5 +16,6 @@
 
 ## Выполненные работы
 
-- [ML0.1: Входной контроль]()
+- [ML0.1: Входной контроль](https://github.com/10nesse/ML_university/tree/main/ML0.1)
+- [ML0.2: Простой анализ данных](https://github.com/10nesse/ML_university/tree/main/ML0.2)
 
