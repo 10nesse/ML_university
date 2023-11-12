@@ -20,6 +20,8 @@
 - [ML0.2: Простой анализ данных](https://github.com/10nesse/ML_university/tree/main/ML0.2)
 - [ML1.1: Парная линейная регрессия](https://github.com/10nesse/ML_university/tree/main/ML1.1)
 - [ML1.2: Множественная линейная регрессия на чистых данных](https://github.com/10nesse/ML_university/tree/main/ML1.2)
+- [ML1.3: Модели регрессии](https://github.com/10nesse/ML_university/tree/main/ML1.3)
+
 
 
 
