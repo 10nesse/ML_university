@@ -24,5 +24,7 @@
 - [ML2.1: Логистическая регрессия](https://github.com/10nesse/ML_university/tree/main/ML2.1)
 - [ML2.2: Модели классификации](https://github.com/10nesse/ML_university/tree/main/ML2.2)
 - [Самостоятельная работа по составлению вопросов](https://github.com/10nesse/ML_university/tree/main/Тестовые%20вопросы%20к%20лабораторным%20работам)
+- [ML3.1: Полиномиальные модели](https://github.com/10nesse/ML_university/tree/main/ML3.1)
+
 
 
