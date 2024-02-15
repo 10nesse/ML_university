@@ -26,6 +26,9 @@
 - [Самостоятельная работа по составлению вопросов](https://github.com/10nesse/ML_university/tree/main/Самостоятельная%20работа%20по%20составлению%20вопросов)
 - [ML3.1: Полиномиальные модели](https://github.com/10nesse/ML_university/tree/main/ML3.1)
 - [ML3.2: Метод опорных векторов](https://github.com/10nesse/ML_university/tree/main/ML3.2)
+- [ML3.3: Многослойный перцептрон](https://github.com/10nesse/ML_university/tree/main/ML3.3)
+- [ML3.4: Деревья решений](https://github.com/10nesse/ML_university/tree/main/ML3.4)
+  
 
 
 
