@@ -28,7 +28,7 @@
 - [ML3.2: Метод опорных векторов](https://github.com/10nesse/ML_university/tree/main/ML3.2)
 - [ML3.3: Многослойный перцептрон](https://github.com/10nesse/ML_university/tree/main/ML3.3)
 - [ML3.4: Деревья решений](https://github.com/10nesse/ML_university/tree/main/ML3.4)
-- [ML3.5: Метод K блиайших соседей](https://github.com/10nesse/ML_university/tree/main/ML3.5)
+- [ML3.5: Метод K ближайших соседей](https://github.com/10nesse/ML_university/tree/main/ML3.5)
 - [ML3.6: Наивный байесовский классификатор](https://github.com/10nesse/ML_university/tree/main/ML3.6)
 
 
