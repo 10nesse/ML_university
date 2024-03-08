@@ -30,6 +30,10 @@
 - [ML3.4: Деревья решений](https://github.com/10nesse/ML_university/tree/main/ML3.4)
 - [ML3.5: Метод K ближайших соседей](https://github.com/10nesse/ML_university/tree/main/ML3.5)
 - [ML3.6: Наивный байесовский классификатор](https://github.com/10nesse/ML_university/tree/main/ML3.6)
+- [ML4.1: Метрики эффективности моделей машинного обучения](https://github.com/10nesse/ML_university/tree/main/ML4.1)
+- [ML4.2: Площадь под графиком и управление порогом](https://github.com/10nesse/ML_university/tree/main/ML4.2)
+
+
 
 
  
