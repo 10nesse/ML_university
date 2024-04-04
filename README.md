@@ -32,6 +32,8 @@
 - [ML3.6: Наивный байесовский классификатор](https://github.com/10nesse/ML_university/tree/main/ML3.6)
 - [ML4.1: Метрики эффективности моделей машинного обучения](https://github.com/10nesse/ML_university/tree/main/ML4.1)
 - [ML4.2: Площадь под графиком и управление порогом](https://github.com/10nesse/ML_university/tree/main/ML4.2)
+- [ML4.3: Кросс-валидация](https://github.com/10nesse/ML_university/tree/main/ML4.3)
+
 
 
 
