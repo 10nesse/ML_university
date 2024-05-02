@@ -33,6 +33,12 @@
 - [ML4.1: Метрики эффективности моделей машинного обучения](https://github.com/10nesse/ML_university/tree/main/ML4.1)
 - [ML4.2: Площадь под графиком и управление порогом](https://github.com/10nesse/ML_university/tree/main/ML4.2)
 - [ML4.3: Кросс-валидация](https://github.com/10nesse/ML_university/tree/main/ML4.3)
+- [ML4.4: Недообучение и переобучение](https://github.com/10nesse/ML_university/tree/main/ML4.4)
+- [ML4.5: Оптимизация гиперпараметров](https://github.com/10nesse/ML_university/tree/main/ML4.5)
+- [ML5.1: Интеграция данных](https://github.com/10nesse/ML_university/tree/main/ML5.1)
+
+
+
 
 
 
