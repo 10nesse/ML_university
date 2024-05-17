@@ -36,6 +36,10 @@
 - [ML4.4: Недообучение и переобучение](https://github.com/10nesse/ML_university/tree/main/ML4.4)
 - [ML4.5: Оптимизация гиперпараметров](https://github.com/10nesse/ML_university/tree/main/ML4.5)
 - [ML5.1: Интеграция данных](https://github.com/10nesse/ML_university/tree/main/ML5.1)
+- [ML5.2: Инжиниринг численных признаков](https://github.com/10nesse/ML_university/tree/main/ML5.2)
+- [ML5.3: Инжиниринг категориальных признаков](https://github.com/10nesse/ML_university/tree/main/ML5.3)
+
+
 
 
 
