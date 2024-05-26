@@ -38,6 +38,9 @@
 - [ML5.1: Интеграция данных](https://github.com/10nesse/ML_university/tree/main/ML5.1)
 - [ML5.2: Инжиниринг численных признаков](https://github.com/10nesse/ML_university/tree/main/ML5.2)
 - [ML5.3: Инжиниринг категориальных признаков](https://github.com/10nesse/ML_university/tree/main/ML5.3)
+- [ML5.5: Предобработка данных](https://github.com/10nesse/ML_university/tree/main/ML5.5)
+- [ML6.1: Кластеризация](https://github.com/10nesse/ML_university/tree/main/ML6.1)
+- [ML6.3: Понижение размерности](https://github.com/10nesse/ML_university/tree/main/ML6.3)
 
 
 
