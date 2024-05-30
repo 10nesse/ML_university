@@ -43,6 +43,8 @@
 - [ML6.3: Понижение размерности](https://github.com/10nesse/ML_university/tree/main/ML6.3)
 - [ML7.3: Классификация текстов](https://github.com/10nesse/ML_university/tree/main/ML7.3)
 - [ML7.4: Классификация изображений](https://github.com/10nesse/ML_university/tree/main/ML7.4)
+- [Контрольная работа №4](https://github.com/10nesse/ML_university/tree/main/Контрольная%20работа%20№4)
+
 
 
 
